@@ -32,7 +32,8 @@ This project analyzes airline flight delays and cancellations to quantify operat
 - Loss per Passenger
 
 ## 📈 Dashboard Preview
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview]("C:\Users\ASUS TUF\OneDrive\Pictures\Desktop\images\images\dashboard_overview.png")
+
 
 ## 🔍 Key Insights
 - Approximately *34.67%* of flights were delayed or cancelled
