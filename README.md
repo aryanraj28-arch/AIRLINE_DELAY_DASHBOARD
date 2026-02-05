@@ -35,7 +35,7 @@ This project analyzes airline flight delays and cancellations to quantify operat
 ![Dashboard Overview](images/dashboard_overview.png)
 
 ## 🔍 Key Insights
-- Approximately **X%** of flights were delayed or cancelled
+- Approximately *34.67%* of flights were delayed or cancelled
 - Weather and technical issues contributed to the highest losses
 - A small percentage of flights accounted for a disproportionate share of losses
 - Average loss per passenger increased significantly during cancellations
